@@ -1,7 +1,10 @@
 # IBM_Data_Analyst_HW1
-## Extracting and Visualizing Stock Data
 
 Course: IBM Data Analyst Professional Certificate >> Python Project for Data Science
+
+用python寫可視化的圖表
+
+## Extracting and Visualizing Stock Data
 
 ### Description
 
