@@ -4,7 +4,7 @@ Course: IBM Data Analyst Professional Certificate >> Python Project for Data Sci
 
 說明：用python寫可視化的圖表
 
-### Extracting and Visualizing Stock Data
+## Extracting and Visualizing Stock Data
 
 ### Description
 
